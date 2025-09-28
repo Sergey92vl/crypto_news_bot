@@ -17,6 +17,7 @@ pip install requests
 
 Launching:
 Method 1 (Double-click): Just double-click on the bot.bat file. The bot will ask you a question.
+
 Method 2 (From the command line): Open CMD in the project folder and run:
 bash
 bot.bat "Solana"
